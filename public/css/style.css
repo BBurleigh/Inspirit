@@ -20,13 +20,23 @@ header,
 
 footer.footer {
   color: #00d1b2;
+  background-color: lightgray;
 }
 
 .homepage-header {
   font-size: 75px;
   color: #00d1b2;
+  border-bottom: solid;
+  border-color: gray;
+  padding-bottom: 15px;
 }
 
 button {
   margin: 5px;
+}
+html {
+  background-color: lightgray;
+}
+.navbar-start {
+  background-color: lightgray;
 }
