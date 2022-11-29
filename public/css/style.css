@@ -26,3 +26,7 @@ footer.footer {
   font-size: 75px;
   color: #00d1b2;
 }
+
+button {
+  margin: 5px;
+}
