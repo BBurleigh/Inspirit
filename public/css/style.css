@@ -1,4 +1,5 @@
-header, .project:not(:last-child) {
+header,
+.project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
@@ -17,8 +18,11 @@ header, .project:not(:last-child) {
   text-decoration: underline;
 }
 
-.home-container {
-  background-image: url('../../images/homepageimage.jpg');
-  
+footer.footer {
+  color: #00d1b2;
 }
 
+.homepage-header {
+  font-size: 75px;
+  color: #00d1b2;
+}
